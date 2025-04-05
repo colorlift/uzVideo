@@ -1,0 +1,140 @@
+[
+  {
+    "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+    "name": "葡萄资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.siwazyw.tv/api.php/provide/vod/",
+    "name": "丝袜资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://apilsbzy1.com/api.php/provide/vod/at/json",
+    "name": "色逼资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+    "name": "虎牙",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://hw8.live/api.php/provide/vod/at/json",
+    "name": "华为",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+    "name": "极速",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+    "name": "火狐",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/json",
+    "name": "卧龙",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json",
+    "name": "樱花",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://sdzyapi.com/api.php/provide/vod/at/json",
+    "name": "闪电",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://api.apibdzy.com/api.php/provide/vod/at/json",
+    "name": "百度",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://cj.vodimg.top/api.php/provide/vod/at/json",
+    "name": "影图",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://p2100.net/api.php/provide/vod/at/json",
+    "name": "飘零",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json",
+    "name": "袜丝",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+    "name": "色猫",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+    "name": "葡萄",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://82.156.40.118:1234/api.php/provide/vod/at/json",
+    "name": "至圣",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://api.zuidapi.com/api.php/provide/vod/at/json",
+    "name": "最大",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.inmi.app/api.php/provide/vod/at/json",
+    "name": "映迷",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://apilsbzy1.com/api.php/provide/vod/at/json",
+    "name": "色逼",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://to.to-long.com/api.php/provide/vod/at/json",
+    "name": "橘猫",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://slapibf.com/api.php/provide/vod/at/json",
+    "name": "森林",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json",
+    "name": "乐播",
+    "noHistory": true,
+    "isLock": true
+  }
+]
