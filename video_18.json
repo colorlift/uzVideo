@@ -72,38 +72,38 @@
     "isLock": true
   },
   {
-    "api": "https://www.msnii.com/api/xml.php",
-    "name": "美少女资源",
+    "api": "https://www.msnii.com/api/json.php",
+    "name": "🔞美少女资源",
     "noHistory": true,
     "isLock": true
   },
   {
-    "api": "https://www.xrbsp.com/api/xml.php",
-    "name": "淫水机资源",
+    "api": "https://www.xrbsp.com/api/json.php",
+    "name": "🔞淫水机资源",
     "noHistory": true,
     "isLock": true
   },
   {
-    "api": "https://www.gdlsp.com/api/xml.php",
-    "name": "香奶儿资源",
+    "api": "https://www.gdlsp.com/api/json.php",
+    "name": "🔞香奶儿资源",
     "noHistory": true,
     "isLock": true
   },
   {
-    "api": "https://www.kxgav.com/api/xml.php",
-    "name": "白嫖资源",
+    "api": "https://www.kxgav.com/api/json.php",
+    "name": "🔞白嫖资源",
     "noHistory": true,
     "isLock": true
   },
   {
-    "api": "https://www.pgxdy.com/api/xml.php",
-    "name": "黄AV资源",
+    "api": "https://www.pgxdy.com/api/json.php",
+    "name": "🔞黄AV资源",
     "noHistory": true,
     "isLock": true
   },
   {
-    "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-    "name": "乐播资源",
+    "api": "https://lbapi9.com/api.php/provide/vod",
+    "name": "🔞乐播资源",
     "noHistory": true,
     "isLock": true
   },
@@ -236,36 +236,6 @@
   {
     "api": "http://www.zzrhgg.com/api.php/provide/vod",
     "name": "飘花电影",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.msnii.com/api/json.php",
-    "name": "美",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.gdlsp.com/api/json.php",
-    "name": "香",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.xrbsp.com/api/json.php",
-    "name": "水",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://www.kxgav.com/api/json.php",
-    "name": "白",
-    "noHistory": true,
-    "isLock": true
-  },
-  {
-    "api": "https://lbapi9.com/api.php/provide/vod",
-    "name": "乐",
     "noHistory": true,
     "isLock": true
   },
