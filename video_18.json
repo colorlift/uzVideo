@@ -1,0 +1,297 @@
+[
+  {
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "name": "环亚资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
+    "name": "麒麟资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
+    "name": "樱花资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://api.kuapi.cc/api.php/provide/vod/at/xml",
+    "name": "酷点资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://sdzyapi.com/api.php/provide/vod/at/xml",
+    "name": "闪电资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://www.hanjuzy.com/inc/api.php",
+    "name": "韩剧资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
+    "name": "百度资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
+    "name": "卧龙资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://shdmv.com/api.php/provide/vod/at/xml",
+    "name": "超高清影视",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
+    "name": "飘花电影",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.vp1127.com/api.php/provide/vod/at/xml",
+    "name": "快看客栈",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
+    "name": "MBO影视",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.msnii.com/api/xml.php",
+    "name": "美少女资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.xrbsp.com/api/xml.php",
+    "name": "淫水机资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.gdlsp.com/api/xml.php",
+    "name": "香奶儿资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.kxgav.com/api/xml.php",
+    "name": "白嫖资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.pgxdy.com/api/xml.php",
+    "name": "黄AV资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+    "name": "乐播资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://mygzycj.com/api.php",
+    "name": "JAV名优馆",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://m.7777688.com/inc/api.php",
+    "name": "AVZY6888资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://secj8.com/inc/sapi.php",
+    "name": "色色资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://jcspcj8.com/api",
+    "name": "久草资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://f2dcj6.com/sapi",
+    "name": "富二代资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://zmcj88.com/sapi",
+    "name": "字幕网",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://35ys.cc/api.php/v1.vod",
+    "name": "独播社(M2)",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://shangjihuoke.com/api.php/tv.vod",
+    "name": "段友影视2(M2)",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://luobu.yss6080.com/mogai_api.php/v1.vod",
+    "name": "益达影院(M2)",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://ys.58g8.com/lvdou_api.php/v1.vod",
+    "name": "百淘影视2(M2)",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.genmov.com/mogai_api.php/v1.vod",
+    "name": "我爱跟剧(M2)",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://xydm.baicai.buzz/mogai_api.php/v1.vod",
+    "name": "小鸟动漫(M2)",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://api.fqzy.cc/api.php/provide/vod",
+    "name": "番茄资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.vp1127.com/api.php/provide/vod",
+    "name": "快看客栈",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://api.kuapi.cc/api.php/provide/vod",
+    "name": "酷点资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+    "name": "樱花资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://sdzyapi.com/api.php/provide/vod",
+    "name": "闪电资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://www.qilinzyz.com/api.php/provide/vod",
+    "name": "麒麟资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://shangjihuoke.com/api.php/provide/vod",
+    "name": "段友影视",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://api.apibdzy.com/api.php/provide/vod",
+    "name": "百度资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://baobei666.com/inc/apijson_vod.php",
+    "name": "随便看电影",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://www.zzrhgg.com/api.php/provide/vod",
+    "name": "飘花电影",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.msnii.com/api/json.php",
+    "name": "美",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.gdlsp.com/api/json.php",
+    "name": "香",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.xrbsp.com/api/json.php",
+    "name": "水",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.kxgav.com/api/json.php",
+    "name": "白",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://lbapi9.com/api.php/provide/vod",
+    "name": "乐",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml",
+    "name": "无尽",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://jcspcj8.com/sapi",
+    "name": "久草资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "http://mygzycj.com/sapi.php",
+    "name": "名优馆资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml",
+    "name": "红牛资源",
+    "noHistory": true,
+    "isLock": true
+  }
+]
+
