@@ -136,5 +136,17 @@
     "name": "乐播",
     "noHistory": true,
     "isLock": true
+  },
+  {
+    "api": "http://fhapi9.com/api.php/provide/vod/at/json",
+    "name": "番号",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://91md.me/api.php/provide/vod/at/json",
+    "name": "九麻",
+    "noHistory": true,
+    "isLock": true
   }
 ]
